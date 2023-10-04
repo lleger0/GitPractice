@@ -1,0 +1,6 @@
+
+#this is a comment. Using a comment you can dictate what to ignore
+#this will ignore all .txt fles
+*.txt
+
+#this is good for information you don't want people seeing
